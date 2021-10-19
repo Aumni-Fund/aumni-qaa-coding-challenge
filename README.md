@@ -30,5 +30,5 @@ The purpose of this coding challenge is to gauge knowledge in automated test and
 
 # **Submission**
 1. Zip your project up.
-2. Upload your zip to http://file.io using the "Upload" button or the cURL commands
-3. Email the file download URL to [Aumni Eng Recruiting](mailto:eng-recruiting@aumni.fund)
+2. Upload your zip to http://file.io using the "Upload" button or the cURL commands (Once uploaded, do not download. After the file is downloaded by anyone it is automatically deleted from the site)
+4. Email the file download URL to [Aumni Eng Recruiting](mailto:eng-recruiting@aumni.fund)
