@@ -6,8 +6,8 @@ The purpose of this coding challenge is to gauge knowledge in automated test and
 
 # **Notes**
 1. Clone/Download this repository. This is a blank repository to get you started.
-2. Once you have made your first commit you will have 72 hours to make your final commit to complete the code challenge.
-3. Please do NOT push your code challenge solution to a public repository.
+3. Once you have made your first commit you will have 72 hours to make your final commit to complete the code challenge.
+4. Please do NOT push your code challenge solution to a public repository.
 
 # **Goals**
 * Your solution showcases your automated test and framework design skills
@@ -22,6 +22,7 @@ The purpose of this coding challenge is to gauge knowledge in automated test and
 * Framework is written in Cypress and TypeScript
 * Dependencies are managed by Yarn
 * Readme is included with documentation on the following: 
+  * Your full name
   * Requirements for running tests (node version, etc.)
   * Steps necessary for running tests
   * Any other useful information  
