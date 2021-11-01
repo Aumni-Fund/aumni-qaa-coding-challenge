@@ -7,7 +7,8 @@ The purpose of this coding challenge is to gauge knowledge in automated test and
 # **Notes**
 1. Clone/Download this repository. This is a blank repository to get you started.
 3. Once you have made your first commit you will have 72 hours to make your final commit to complete the code challenge.
-4. Please do NOT push your code challenge solution to a public repository.
+4. Treat your submission as a polished shippable product.
+5. Please do NOT push your code challenge solution to a public repository.
 
 # **Goals**
 * Your solution showcases your automated test and framework design skills
