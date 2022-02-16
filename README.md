@@ -30,7 +30,7 @@ The purpose of this coding challenge is to gauge knowledge in automated test and
 * Includes necessary support structure to facilitate the ease of writing many tests
 * At least 3 distinct tests are written for https://www.aumni.fund/
 
-# **Submission**
-1. Zip your project up.
-2. Upload your zip to http://file.io using the "Upload" button or the cURL commands (Once uploaded, do not download. After the file is downloaded by anyone it is automatically deleted from the site)
-4. Email the file download URL to [Aumni Eng Recruiting](mailto:eng-recruiting@aumni.fund)
+## Submission
+1. When you have your final commit complete, please zip up your entire folder.
+2. Once you have coding submission zipped up, please upload it as per 
+![UploadSubmission.png](https://github.com/Aumni-Fund/node-coding-challenge/blob/master/UploadSubmission.png).
