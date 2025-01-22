@@ -1,0 +1,10 @@
+name: Docker build and Wiz vulnerability scan caller
+run-name: Docker build and Wiz vulnerability scan
+on:
+    pull_request:
+      branches: ['main', 'master']
+      types: [opened, synchronize, reopened]
+jobs:
+  call-docker-build-and-wiz-scan:
+    uses: Aumni-Fund/tool-infosec/.github/workflows/docker-build-wiz-scan.yml@master
+    secrets: inherit
